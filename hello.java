@@ -3,7 +3,7 @@ public class Hello {
         try {
 		System.out.println("Hello World");
 	} catch (Exception e) {
-		System.out.println("Error");
+		System.out.println("Error!!!");
 	}
     }
 }
